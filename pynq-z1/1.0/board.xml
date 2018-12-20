@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?> 
 <board schema_version="2.0" vendor="www.digilentinc.com" name="PYNQ-Z1" display_name="PYNQ-Z1" url="http://www.pynq.io" preset_file="preset.xml" >
+  <images>
+    <image name="pynq_z1_board.png" display_name="Zynq-7000 PYNQ-Z1 BOARD" sub_type="board">
+      <description>PYNQ-Z1 Board Image</description>
+    </image>
+  </images>
 <compatible_board_revisions>
   <revision id="0">1.0</revision>
 </compatible_board_revisions>
